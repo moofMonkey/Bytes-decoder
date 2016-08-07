@@ -1,2 +1,2 @@
 # Bytes decoder
-NEEDS JAVASSIST API!!!
+NEEDS JAVASSIST API!!! https://yadi.sk/d/0zNrceJ_tzNK4
